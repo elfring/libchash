@@ -1,6 +1,6 @@
 /* chash.h */
-#ifndef _CHASH_H_
-#define _CHASH_H_
+#ifndef CHASH_H_F61CA1F6A58446FC9B38E829D2DF2187
+#define CHASH_H_F61CA1F6A58446FC9B38E829D2DF2187
 
 struct chash_t;
 
